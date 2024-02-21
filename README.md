@@ -1,1 +1,3 @@
-# coding-raja-technologies-internship-2
+# web-music-player
+A simple Music Player using HTML, CSS & JS
+
